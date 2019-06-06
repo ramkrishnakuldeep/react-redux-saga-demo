@@ -1,0 +1,31 @@
+footer {
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    background: maroon;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+    .price {
+        font-size: 2rem;
+    }
+
+    .add_to_cart {
+        border: 0;
+        height: 45px;
+        min-width: 100px;
+        color: white;
+        background: forestgreen;
+    }
+
+    div:first-child {
+        margin-left: 20px;
+    }
+
+    div:last-child {
+        margin-right: 20px;
+    }
+}

@@ -1,0 +1,22 @@
+.item {
+    background: white;
+
+    .item-img {
+        position: relative;
+        img {
+            object-fit: contain;
+            width: 200px;
+        }
+    }
+
+    .item-detail {
+        padding: 10px;
+        .item-price{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
+    
+    
+}

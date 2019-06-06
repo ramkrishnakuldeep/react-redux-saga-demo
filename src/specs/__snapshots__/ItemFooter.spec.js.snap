@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemFooter component initial render 1`] = `
+<footer>
+  <div>
+    <span
+      className="price"
+    >
+       ¥ 
+       
+    </span>
+    <span>
+       
+       
+    </span>
+  </div>
+  <div>
+    <button
+      className="add_to_cart"
+    >
+      Add to cart
+    </button>
+  </div>
+</footer>
+`;

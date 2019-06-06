@@ -1,0 +1,23 @@
+.categories {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: beige;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 60px;
+    z-index: 3;
+
+    .category {
+        cursor: pointer;
+    }
+
+    .active {
+        color: rgb(221, 20, 20);
+    }
+
+    .inactive {
+        color: gray;
+    }
+}

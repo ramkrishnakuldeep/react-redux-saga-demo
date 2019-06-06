@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryList component initial render 1`] = `
+<CategoryList
+  categories={
+    Array [
+      Object {
+        "id": "1",
+        "name": "πüÖπü╣πüª",
+      },
+      Object {
+        "id": "2",
+        "name": "πâ¼πâçπéúπâ╝πé╣",
+      },
+      Object {
+        "id": "3",
+        "name": "πâÖπâôπâ╝πâ╗πé¡πââπé║",
+      },
+      Object {
+        "id": "4",
+        "name": "πé¿πâ│πé┐πâí",
+      },
+      Object {
+        "id": "5",
+        "name": "πâíπâ│πé║",
+      },
+    ]
+  }
+  filterBy={2}
+  filterCategory={[MockFunction]}
+>
+  <div
+    className="categories"
+  >
+    <div
+      className="category inactive"
+      key="1"
+      onClick={[Function]}
+    >
+      πüÖπü╣πüª
+    </div>
+    <div
+      className="category active"
+      key="2"
+      onClick={[Function]}
+    >
+      πâ¼πâçπéúπâ╝πé╣
+    </div>
+    <div
+      className="category inactive"
+      key="3"
+      onClick={[Function]}
+    >
+      πâÖπâôπâ╝πâ╗πé¡πââπé║
+    </div>
+    <div
+      className="category inactive"
+      key="4"
+      onClick={[Function]}
+    >
+      πé¿πâ│πé┐πâí
+    </div>
+    <div
+      className="category inactive"
+      key="5"
+      onClick={[Function]}
+    >
+      πâíπâ│πé║
+    </div>
+  </div>
+</CategoryList>
+`;

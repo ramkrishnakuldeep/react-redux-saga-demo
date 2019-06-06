@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem component initial render 1`] = `
+<div
+  className="items__container"
+>
+  <Item
+    item={
+      Object {
+        "category_id": 1,
+        "comment_count": 59,
+        "description": "size free 1",
+        "id": "1",
+        "image": "http://dummyimage.com/400x400/000/fff?text=men1",
+        "is_sold_out": false,
+        "like_count": 91,
+        "name": "men1",
+        "price": 51,
+        "shipping_fee": "ΘÇüµûÖΦ╛╝πü┐",
+      }
+    }
+    key="1"
+  />
+  <Item
+    item={
+      Object {
+        "category_id": 2,
+        "comment_count": 0,
+        "description": "size free 1",
+        "id": "2",
+        "image": "http://dummyimage.com/400x400/000/fff?text=men2",
+        "is_sold_out": true,
+        "like_count": 0,
+        "name": "men2",
+        "price": 10000,
+        "shipping_fee": "ΘÇüµûÖΦ╛╝πü┐",
+      }
+    }
+    key="2"
+  />
+  <Item
+    item={
+      Object {
+        "category_id": 3,
+        "comment_count": 58,
+        "description": "size free 1",
+        "id": "3",
+        "image": "http://dummyimage.com/400x400/000/fff?text=men3",
+        "is_sold_out": false,
+        "like_count": 17,
+        "name": "men3",
+        "price": 1500,
+        "shipping_fee": "ΘÇüµûÖΦ╛╝πü┐",
+      }
+    }
+    key="3"
+  />
+  <Item
+    item={
+      Object {
+        "category_id": 4,
+        "comment_count": 0,
+        "description": "size free 1",
+        "id": "4",
+        "image": "http://dummyimage.com/400x400/000/fff?text=men4",
+        "is_sold_out": false,
+        "like_count": 0,
+        "name": "men4",
+        "price": 38,
+        "shipping_fee": "ΘÇüµûÖΦ╛╝πü┐",
+      }
+    }
+    key="4"
+  />
+  <Item
+    item={
+      Object {
+        "category_id": 5,
+        "comment_count": 32,
+        "description": "size free 1",
+        "id": "5",
+        "image": "http://dummyimage.com/400x400/000/fff?text=men5",
+        "is_sold_out": false,
+        "like_count": 19,
+        "name": "men5",
+        "price": 23,
+        "shipping_fee": "ΘÇüµûÖΦ╛╝πü┐",
+      }
+    }
+    key="5"
+  />
+</div>
+`;

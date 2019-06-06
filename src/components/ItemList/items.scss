@@ -1,0 +1,7 @@
+.items__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    justify-items: center;
+    padding: 120px 20px 20px;
+}
